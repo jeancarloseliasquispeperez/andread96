@@ -2,7 +2,7 @@
 
 My name is Andrea Di Genova
 ========================================================================================================================================
-FullStack + Blockchain Engineer | AI Enthusiast
+Full Stack | Blockchain Engineer | AI Enthusiast
 -----------------------------------------------
   
 **My Skills**
